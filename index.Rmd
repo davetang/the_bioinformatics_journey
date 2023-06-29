@@ -14,12 +14,43 @@ output:
 
 # Preface {-}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus at ligula id cursus. Quisque sit amet ante velit. Phasellus interdum lacus eget tellus hendrerit bibendum. Phasellus et facilisis libero. Nulla sit amet imperdiet lorem, vestibulum maximus velit. Ut laoreet ligula nulla, non tempor lorem feugiat eu. Curabitur id elit erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec ornare, urna a rutrum ultricies, nisl ex efficitur nisi, pulvinar vehicula odio arcu quis diam. In ac ex eget ex convallis consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus felis nisi, convallis ac tincidunt sed, posuere eu lorem. Donec aliquam tortor nec nunc congue ullamcorper. Suspendisse tellus lectus, faucibus ut auctor at, rhoncus lacinia arcu. Etiam dignissim lobortis mi, vitae interdum elit facilisis nec.
+> "How vain it is to sit down to write when you have not stood up to live."
+>
+> --- Henry David Thoreau
 
-## Why {-}
+I have always wanted to write a book. Several things have stopped me, one of
+which is the pure vanity of the endeavour. Another reason is that I am a poor
+writer. But probably the main reason was that I simply lacked the discipline
+required for writing a book, decent or otherwise. Believe it or not, I have
+actually been asked twice to write a book. The first time was to write a book on
+machine learning, which I felt (and still feel) inadequate writing. The second
+time was to write a book on R and bioinformatics, which I actually agreed on
+writing. However while preparing the structure of the book, I realised that a
+lot of what I wanted to write about is already freely available. So I dropped
+the project and decided then that anything I will write in the future will be
+freely available.
 
-In tempor ex non libero imperdiet aliquet. Cras dui dui, vehicula vel lacus quis, suscipit eleifend ante. Vivamus molestie purus ac nisl consectetur interdum. Aenean eu nisl luctus augue pharetra volutpat ac a ipsum. Maecenas eu mauris porttitor, pellentesque purus id, pulvinar est. Fusce imperdiet eros in tristique molestie. Nam sed ornare nibh. Donec nunc arcu, facilisis non fermentum vel, elementum vitae lorem. Sed scelerisque lorem ut ipsum semper, id faucibus orci varius.
+Have I finally gained enough self-discipline to write a book? I guess we will
+see!
+
+Finally, the title is simply a substitution of the word Dangerous with
+Bioinformatics from the book [The Dangerous
+Journey](https://www.goodreads.com/book/show/7967538-the-dangerous-journey) by
+Tove Jansson. It's a children's book about a little girl who enters an exciting
+world full of wacky, wild, and weird things. Kinda like bioinformatics.
+
+## Why this book {-}
+
+I'd like to share my story of how I ended up working in bioinformatics in the
+hopes that it will be useful to those who are planning on starting a career in
+bioinformatics (or in some other area of work). I come from a low-income family
+and was the first in my family to have attended university. On top of this, I
+grew up in an isolated and exotic island, called Papua New Guinea, in a highly
+dysfunctional family. I learned most of life's most important lessons the hard
+way and if I can prevent at least one person from making the same mistakes that
+I have, I'd consider this book a success.
 
 ## Structure {-}
 
-Quisque elit augue, convallis sit amet pharetra ut, tempus eu justo. Donec efficitur pellentesque purus ac porta. Etiam sit amet nibh eu est vehicula venenatis mollis in nisi. In sodales, metus non pharetra feugiat, ante orci ullamcorper felis, vitae facilisis ipsum neque et neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut nisi justo, sollicitudin vitae blandit nec, sagittis sit amet ipsum. Etiam nisi lacus, elementum in dapibus quis, feugiat eleifend tortor. Praesent ut justo odio. Vivamus finibus condimentum neque, sed auctor risus efficitur at. Nam id pulvinar eros. Curabitur dapibus felis in sapien luctus, sed tempus dui rutrum. Donec ut tempor est, non blandit nulla. Nullam tristique risus vulputate sapien eleifend sagittis et eu risus. Mauris tristique orci magna.
+I have tentatively structured the book based on different positions I have held,
+starting from an Honours student to my current position.
