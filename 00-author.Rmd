@@ -1,3 +1,8 @@
 # About the author {-}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec bibendum enim. Phasellus vel hendrerit erat. Pellentesque bibendum, dui id faucibus gravida, massa lacus suscipit ex, eu porttitor massa neque non arcu. Praesent ornare ante libero, eget imperdiet ligula bibendum at. Morbi interdum arcu quam. Morbi sem felis, venenatis at volutpat id, sollicitudin a risus. Suspendisse a nisi interdum, laoreet justo in, bibendum orci. Curabitur et magna turpis. Cras sed ultricies felis. Cras nec cursus tortor. Cras sit amet libero consectetur neque dignissim porta. Nunc id ex aliquet, tristique mauris a, facilisis dui.
+Dave Tang is a bioinformatician who is known for [his
+blog](https://davetang.org/muse/). He earned his PhD from Vrije Universiteit
+Amsterdam. He is still actively blogging about bioinformatics (mostly).
+
+He used to play a lot of basketball but nowadays his time is mainly split
+between work and family.
