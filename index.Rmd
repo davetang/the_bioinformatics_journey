@@ -3,7 +3,23 @@ title: "The Bioinformatics Journey"
 author: "Dave Tang"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    lib_dir: assets
+    split_by: section
+    config:
+      toolbar:
+        position: static
 ---
 
-# My last option
+# Preface {-}
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus at ligula id cursus. Quisque sit amet ante velit. Phasellus interdum lacus eget tellus hendrerit bibendum. Phasellus et facilisis libero. Nulla sit amet imperdiet lorem, vestibulum maximus velit. Ut laoreet ligula nulla, non tempor lorem feugiat eu. Curabitur id elit erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec ornare, urna a rutrum ultricies, nisl ex efficitur nisi, pulvinar vehicula odio arcu quis diam. In ac ex eget ex convallis consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus felis nisi, convallis ac tincidunt sed, posuere eu lorem. Donec aliquam tortor nec nunc congue ullamcorper. Suspendisse tellus lectus, faucibus ut auctor at, rhoncus lacinia arcu. Etiam dignissim lobortis mi, vitae interdum elit facilisis nec.
+
+## Why {-}
+
+In tempor ex non libero imperdiet aliquet. Cras dui dui, vehicula vel lacus quis, suscipit eleifend ante. Vivamus molestie purus ac nisl consectetur interdum. Aenean eu nisl luctus augue pharetra volutpat ac a ipsum. Maecenas eu mauris porttitor, pellentesque purus id, pulvinar est. Fusce imperdiet eros in tristique molestie. Nam sed ornare nibh. Donec nunc arcu, facilisis non fermentum vel, elementum vitae lorem. Sed scelerisque lorem ut ipsum semper, id faucibus orci varius.
+
+## Structure {-}
+
+Quisque elit augue, convallis sit amet pharetra ut, tempus eu justo. Donec efficitur pellentesque purus ac porta. Etiam sit amet nibh eu est vehicula venenatis mollis in nisi. In sodales, metus non pharetra feugiat, ante orci ullamcorper felis, vitae facilisis ipsum neque et neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut nisi justo, sollicitudin vitae blandit nec, sagittis sit amet ipsum. Etiam nisi lacus, elementum in dapibus quis, feugiat eleifend tortor. Praesent ut justo odio. Vivamus finibus condimentum neque, sed auctor risus efficitur at. Nam id pulvinar eros. Curabitur dapibus felis in sapien luctus, sed tempus dui rutrum. Donec ut tempor est, non blandit nulla. Nullam tristique risus vulputate sapien eleifend sagittis et eu risus. Mauris tristique orci magna.
