@@ -1,4 +1,69 @@
 # Redemption
 
-Morbi vitae libero ac nunc blandit viverra. Nam quam mauris, imperdiet nec hendrerit vitae, rutrum aliquet erat. Nulla facilisis nibh id ante sodales pellentesque. In in posuere lacus. Suspendisse mauris elit, commodo in lorem eget, auctor ultrices ligula. Donec interdum massa sit amet felis elementum, eu dapibus ligula euismod. Sed hendrerit, purus eget sagittis mattis, arcu mauris semper ipsum, et rutrum tortor odio eget enim. Nullam velit elit, tincidunt quis sollicitudin in, egestas eu lectus. Mauris eu justo nec orci accumsan vehicula vel ac diam. Vivamus rhoncus mollis pharetra. Etiam non gravida felis. Donec congue ante quis lobortis fermentum. Nulla aliquam eros a tellus ultrices, non consequat leo malesuada. Quisque nunc erat, faucibus non suscipit eu, volutpat sit amet enim. Aenean ante orci, varius vitae ligula efficitur, mollis blandit felis.
+> 09/08/2006
+> 
+> Subject: CSIRO Work experience program
+> 
+> Dear Dr. Dalrymple,
+> 
+> My name is Dave Tang, a Bachelor of Science graduate currently without a
+> science job. I've had difficulty looking for work as a scientist after my
+> brief work at The University of Queensland ceased, partly because I'm stuck
+> in the middle of two fields. I finished my Bachelor of Science degree with
+> majors in microbiology and biochemistry and I've completed an honours degree
+> in bioinformatics. However, I don't have the programming/mathematical
+> background to strongly state that I am a bioinformatian nor enough
+> laboratory experience to call myself a laboratory scientist and this has
+> been a problem.
+> 
+> Naturally I searched CSIRO to see if there were any positions available.
+> Though there was nothing suitable, I was happy to see that there is a work
+> experience program for people with little or no work experience. I believe
+> my interest lies more into bioinformatics and thus I would like to get more
+> experience in this area. Your details came up as one of the principal
+> investigators in bioinformatics at CSIRO.
+> 
+> I entered bioinformatics with minimal knowledge about the field and didn't
+> have any programming knowledge. It was required for my research project to
+> know a little bit of programming and I managed to learn some Perl and UNIX. 
+> My research project was involved with detecting lateral gene transfer events
+> among a group of bacteria. I've had some experience working with genomes and
+> looking for SNPs, although not to the magnitude of eukaryotic genomes.
+> 
+> It would be one of the biggest joys to be able to gain some work experience
+> in your lab. I am really sincere about honing my skills in this area and
+> this would be a tremendous opportunity. I have included my CV and in it two
+> referees, although your time and availability would be deciding factors, I
+> kindly ask if you could consider my application. I thank you for your time
+> and look forward to hearing your reply.
+> 
+> Sincerely,
+> 
+> Dave Tang
+
+It is no exaggeration that the email above changed my life. It was a honest and
+desperate plea after being unsuccessful in all of my job applications. At that
+time there were no open positions for any bioinformatics roles. The only
+available positions I could find that were kind of science related were the
+following:
+
+* Master Foods Graduate Program
+* Junior Microbiologist
+* Soil Technician
+* Laboratory Assistant
+* Research Assistant
+* Bioprocessing Assistant
+* Scientist
+* Amcor Australasia Graduate Program
+* Australian Communications and Media Authority Graduate Program
+* Department of Agriculture, Fisheries and Forestry Graduate Development Programme
+
+I have a folder on my Hotmail account called "Rejected work", that holds all
+the rejection emails I received from applying to the positions above.
+
+When Brian replied my email saying that he was interested and wanted to talk
+about possibilities, it was one of the happiest days of my life. I didn't even
+care that they didn't pay me. But of course I had to work 9-to-5 on Saturday
+and Sunday to make ends meet. I kept this up for five months, the duration of
+my work experience programme.
 

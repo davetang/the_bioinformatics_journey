@@ -1,4 +1,13 @@
-# Piled higher and Deeper
+# An opportunity of a lifetime
 
-Phasellus semper nec lectus eget maximus. Maecenas ac ante ut mauris molestie mollis euismod ac enim. Nunc eget felis ornare, tristique elit quis, feugiat ante. Donec fermentum metus vel iaculis cursus. Sed sollicitudin tortor eget mauris pulvinar cursus. Sed blandit nibh et tincidunt dapibus. Nunc in nisl blandit, finibus ipsum a, efficitur enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam nec ex vehicula, sagittis est ullamcorper, porta nibh. Mauris eu dolor id felis placerat ultricies ut ac mi. Cras mollis metus vitae massa scelerisque, a pellentesque nibh sodales. Nunc luctus odio arcu, sed vulputate quam mattis non. Phasellus elit est, luctus vel tortor vel, consequat volutpat libero. Vestibulum non aliquam turpis.
+> "Twenty years from now you will be more disappointed by the things that you
+> didn't do than by the ones you did do. So throw off the bowlines. Sail away
+> from the safe harbor. Catch the trade winds in your sails. Explore. Dream.
+> Discover."
+> --- Mark Twain
+>
+> "Eigentlich weiss man nur wenn man wenig weiss; mit dem Wissen wächst der
+> Zweifel." (We know accurately only when we know little; with knowledge doubt
+> increases.)
+> --- Johann Wolfgang von Goethe
 
