@@ -1,4 +1,4 @@
---- 
+---
 title: "The Bioinformatics Journey"
 author: "Dave Tang"
 date: "`r Sys.Date()`"
@@ -22,16 +22,17 @@ I have always wanted to write a book. Several things have stopped me, one of
 which is the pure vanity of the endeavour. Another reason is that I am a poor
 writer. But probably the main reason was that I simply lacked the discipline
 required for writing a book, decent or otherwise. Believe it or not, I have
-actually been asked twice to write a book. The first time was to write a book on
-machine learning, which I felt (and still feel) inadequate writing. The second
-time was to write a book on R and bioinformatics, which I actually agreed on
-writing. However while preparing the structure of the book, I realised that a
-lot of what I wanted to write about is already freely available. So I dropped
-the project and decided then that anything I will write in the future will be
-freely available.
+actually been asked twice to write a book. The first time was to write a book
+on machine learning, which I felt (and still feel) inadequate writing. The
+second time was to write a book on R and bioinformatics, which I actually
+agreed on writing. However while preparing the structure of the book, I
+realised that a lot of what I wanted to write about is already freely
+available. So I dropped the project and decided then that anything I will write
+in the future will be freely available.
 
-Have I finally gained enough self-discipline to write a book? I guess we will
-see!
+Despite all my reasons, I still want to write because I like writing and I'll
+never get better at writing if I don't write more. Also, I can't keep waiting
+for the right moment to write because there isn't one.
 
 Finally, the title is simply a substitution of the word Dangerous with
 Bioinformatics from the book [The Dangerous
