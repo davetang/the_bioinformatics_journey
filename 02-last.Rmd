@@ -40,15 +40,7 @@ with the next professor but he wasn't impressed with my grades, especially the
 grade I got for his class. I had one last meeting and it was with a
 bioinformatics lab working on phylogenetics. It was my last shot.
 
-I still remember the meeting I had with Mark and Rob (Mark's new postdoc). Out
-of all my subjects, the best grade I got was for a course called Genomics and
-Bioinformatics (BIOL3004). I didn't work especially harder for this subject so
-perhaps it was a sign that that's where my skills are at. I milked it for all
-it was worth to Mark and Rob since the rest of my grades were rubbish. They
-worked on microbial phylogenetics, so I also mentioned my microbiology major.
-In the end, it all came down to a single question. Mark asked Rob whether he
-had the time to supervise me because he didn't. I stared at Rob. And he
-casually said "Yeah".
+I still remember the meeting I had with Mark and Rob (Mark's new postdoc). Out of all my subjects, the best grade I got was for a course called Genomics and Bioinformatics (BIOL3004). I didn't work especially harder for this subject so perhaps it was a sign that that's where my skills are at. I milked it for all it was worth to Mark and Rob since the rest of my grades were rubbish. They worked on microbial phylogenetics, so I also mentioned my microbiology major. In the end, it all came down to a single question. Mark asked Rob whether he had the time to supervise me because he didn't. I stared at Rob and was probably holding my breath. And he casually said "Yeah".
 
 ## Second wind
 
@@ -81,3 +73,15 @@ weaknesses but the type where you use something in a way that it wasn't
 designed for) and Perl was (unfortunately) perfect for that. Back then you
 couldn't look up Stack Overflow so you just kept trying stuff. Maybe if I
 didn't use Perl, I wouldn't have gotten anything done in my honours year.
+
+## The last week of Honours
+
+I have [shared a copy](https://github.com/davetang/cv/blob/master/honours_thesis.pdf) of my Honours thesis on GitHub. It's not something that I'm really proud of because I always felt like I could have done so much better. And that's a recurring theme for me: always thinking that I could do better. But now that I look back, I don't think I could do better because I didn't have the discipline to gradually improve myself. I used to skip classes to go play basketball. I always studied for exams the night before. I did assignments the day before it was due or sometimes on the day it was due. For my Honours thesis, even the part of me that makes me think I can do things the night before thought it would be crazy to attempt to finish it in one night. So I gave myself about a week to start writing.
+
+I had done most of the analyses and I knew what to write for my thesis but as usual, I could never get myself to work on something well in advance. I just gave this some thought and I think the main reason I worked like that is because I was foolishly overconfident. And like a fool I handicapped myself for no good reason. I had nothing written and I think I started writing up almost a whole year's worth of work on a Sunday night to be handed in on either Thursday or Friday. If it weren't for Rob, I would not have graduated.
+
+The last week is kinda a blur because it's been a while and I'm writing this from memory, and also because I did not sleep much. I was living with my friend at the time and I moved my computer out to the living room. I did this because we had put a spare mattress out in the open (which we put there so that we could laze around in front of the TV) and I told him to make sure that I didn't sleep too much because I needed to write. I remember sleeping for an average of 2-3 hours each day and in the end I don't think I needed him to wake me up. I don't remember what I did for food. I don't remember what my friend was doing or said to me. I don't remember much except that I was busy writing and sending Rob my drafts at ungodly hours and he would return my drafts with corrections and suggestions at the same ungodly hours! I felt terrible that I took him along with my mad rush. I didn't have any other choice but to bother him.
+
+I remember certain events on the day of the deadline. I went into the lab because I needed to print my thesis out and get it binded. I remember seeing Rob and he said I looked terrible, which was probably the case. He might have offered me some of his own self-made coffee and I probably had some; he was nice like that. I remember walking to the biochemistry building, seeing some of the other Honours students, and handed in three copies of my thesis. I think I went home right after. I don't remember.
+
+I missed out on a 1st class Honours by a few percent and got the second best grade. I wasn't happy because everyone I knew got 1st class Honours. But in retrospect it wasn't a bad grade given my circumstances. I wrote Rob an email thanking him sincerely and also joked that I needed to work on my time management skills to which he agreed on in his reply. He also wrote something I will never forget. I think I had asked him why he stayed up and worked with me during the last week because that was way beyond his duty. He said he wouldn't have wanted to see me fail like that.
